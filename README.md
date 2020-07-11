@@ -1,3 +1,6 @@
+#Breaking Bad Characters
+Hooks fundamentals using our favourite series to get us all hooked. Ok, sorry.
+-------------------------------------------------------------------------------------------------- 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
